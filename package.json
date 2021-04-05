@@ -1,0 +1,24 @@
+{
+  "name": "personal_site",
+  "version": "1.0.0",
+  "description": "mi sitio personal",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joreyza/personal_site.git"
+  },
+  "keywords": [
+    "portfolio",
+    "jorge",
+    "personal"
+  ],
+  "author": "jorge reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joreyza/personal_site/issues"
+  },
+  "homepage": "https://github.com/joreyza/personal_site#readme"
+}
