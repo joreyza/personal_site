@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mi sitio personal",
   "main": "index.html",
-  "scripts": { 
+  "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +24,10 @@
   "homepage": "https://github.com/joreyza/personal_site#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
